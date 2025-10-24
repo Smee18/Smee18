@@ -9,4 +9,4 @@ Curious by nature, I enjoy exploring new ideas, researching emerging methods, an
 - Always looking to learn and experiment with new tools and ideas  
 
 ## Repositories
-Here you’ll find a mix of coursework, side projects, and experiments showcasing my work in AI and software development.
+Here you’ll find a mix of side projects, and experiments showcasing my work in AI and software development.
