@@ -5,7 +5,7 @@ Curious by nature, I enjoy exploring new ideas, researching emerging methods, an
 
 ## About me
 - Interested in AI, data-driven applications, and computer vision  
-- Strong background in Python and C++  
+- Strong background in Python and ML libraries  
 - Always looking to learn and experiment with new tools and ideas  
 
 ## Repositories
