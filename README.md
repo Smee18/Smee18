@@ -4,7 +4,7 @@ I'm a Computer Science and Artificial Intelligence student in my 4th year at the
 Curious by nature, I enjoy exploring new ideas, researching emerging methods, and building projects that put concepts into practice.
 
 ## About me
-- Interested in AI, wavelet theory, and computer vision  
+- Interested in ML, wavelet theory, and geometric deep learning 
 - Strong background in Python and ML libraries  
 - Always looking to learn and experiment with new tools and ideas  
 
